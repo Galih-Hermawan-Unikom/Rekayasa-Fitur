@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Allow the .gitignore file
+!.gitignore
+
+# Specifically allow only these files
+!02 pemahaman_data_rekayasa_fitur_v3.ipynb
+!03 Pembuatan Fitur.ipynb
+!dataset_harga_rumah.csv

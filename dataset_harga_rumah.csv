@@ -1,0 +1,21 @@
+ID,Luas Tanah (m²),Luas Bangunan (m²),Jumlah Kamar Tidur,Jumlah Kamar Mandi,Usia Bangunan (tahun),Jarak ke Pusat Kota (km),Indeks Kualitas Lingkungan (1-10),Jenis Properti,Gaya Arsitektur,Kondisi Bangunan,Harga Jual (Rp)
+1,150,120,3,2,10,5,8,Rumah Tapak,Minimalis,Baik,1500000000
+2,200,180,4,3,5,3,9,Rumah Tapak,Modern,Sangat Baik,2800000000
+3,75,60,2,1,20,8,6,Apartemen,Klasik,Cukup,800000000
+4,100,80,3,2,15,6,7,Rumah Tapak,Mediterania,Renovasi,1200000000
+5,50,40,1,1,30,10,5,Apartemen,Kontemporer,Perlu Perbaikan,500000000
+6,120,90,2,2,8,4,8,Rumah Tapak,Minimalis,Baik,1300000000
+7,250,220,5,4,2,2,10,Rumah Tapak,Modern,Sangat Baik,4000000000
+8,90,70,3,1,25,9,5,Rumah Tapak,Klasik,Cukup,950000000
+9,180,150,4,2,6,3,9,Rumah Tapak,Kontemporer,Baik,2500000000
+10,65,55,2,1,18,7,7,Apartemen,Minimalis,Renovasi,750000000
+11,140,110,3,2,12,5,8,Rumah Tapak,Modern,Baik,1600000000
+12,220,190,4,3,3,2,9,Rumah Tapak,Mediterania,Sangat Baik,3500000000
+13,85,65,2,1,22,8,6,Apartemen,Klasik,Cukup,850000000
+14,110,90,3,2,16,6,7,Rumah Tapak,Kontemporer,Renovasi,1350000000
+15,60,50,1,1,28,10,5,Apartemen,Minimalis,Perlu Perbaikan,550000000
+16,130,100,3,2,9,4,8,Rumah Tapak,Modern,Baik,1400000000
+17,240,210,5,3,1,1,10,Rumah Tapak,Minimalis,Sangat Baik,3800000000
+18,105,85,3,1,26,9,5,Rumah Tapak,Klasik,Cukup,1000000000
+19,170,140,4,2,7,3,9,Rumah Tapak,Mediterania,Baik,2400000000
+20,70,60,2,1,19,7,6,Apartemen,Kontemporer,Renovasi,700000000

@@ -1,0 +1,111 @@
+nim,nama,mata_kuliah,semester,tahun_pengambilan,kehadiran,nilai_tugas,nilai_uts,nilai_uas,nilai_akhir,indeks
+180001,Budi Santoso,Pemrograman Berorientasi Objek,4,2022,14,85,78,82,74.6,B
+180001,Budi Santoso,Rekayasa Perangkat Lunak,6,2023,15,85,88,90,80.9,A
+180001,Budi Santoso,Bahasa Inggris,3,2022,14,80,82,85,76.0,B
+180001,Budi Santoso,Pemrograman Web,5,2023,15,85,88,90,80.9,A
+180001,Budi Santoso,Pengantar Informatika,1,2021,16,90,85,88,80.3,A
+180001,Budi Santoso,Algoritma dan Pemrograman,2,2021,14,80,82,85,76.0,B
+180001,Budi Santoso,Bahasa Inggris,3,2022,16,90,85,88,80.3,A
+180001,Budi Santoso,Grafika Komputer,7,2024,15,85,88,90,80.9,A
+180001,Budi Santoso,Pemrograman Web,5,2023,14,80,82,85,76.0,B
+180001,Budi Santoso,Rekayasa Perangkat Lunak,6,2023,16,90,85,88,80.3,A
+180001,Budi Santoso,Jaringan Komputer,6,2023,15,85,88,90,80.9,A
+180001,Budi Santoso,Pemrograman Kompetitif,8,2024,14,80,82,85,76.0,B
+180002,Citra Dewi,Kecerdasan Buatan,7,2024,16,92,88,90,82.4,A
+180002,Citra Dewi,Bahasa Inggris,3,2022,16,92,88,90,82.4,A
+180002,Citra Dewi,Matematika Dasar,1,2021,16,92,88,90,82.4,A
+180002,Citra Dewi,Proyek Akhir,8,2024,16,92,88,90,82.4,A
+180003,Ani Handayani,Pengantar Basis Data,3,2022,15,78,85,80,74.6,B
+180003,Ani Handayani,Grafika Komputer,7,2024,15,78,85,80,74.6,B
+180003,Ani Handayani,Pemrograman Berorientasi Objek,4,2022,15,78,85,80,74.6,B
+180003,Ani Handayani,Pemrograman Kompetitif,8,2024,15,78,85,80,74.6,B
+180004,Dian Pratama,Proyek Akhir,8,2024,13,87,80,75,72.7,B
+180004,Dian Pratama,Analisis Data,8,2024,14,87,80,75,72.8,B
+180004,Dian Pratama,Grafika Komputer,7,2024,14,87,80,75,72.8,B
+180004,Dian Pratama,Pengantar Informatika,1,2021,14,87,80,75,72.8,B
+180005,Eka Sari,Bahasa Inggris,3,2022,16,90,85,88,80.3,A
+180005,Eka Sari,Pengantar Basis Data,3,2022,16,90,85,88,80.3,A
+180005,Eka Sari,Kecerdasan Buatan,7,2024,16,90,85,88,80.3,A
+180005,Eka Sari,Basis Data Lanjut,5,2023,16,90,85,88,80.3,A
+180006,Farah Putri,Pemrograman Berorientasi Objek,4,2022,15,85,85,88,79.2,B
+180006,Farah Putri,Struktur Data,2,2021,15,85,85,88,79.2,B
+180006,Farah Putri,Grafika Komputer,7,2024,15,85,85,88,79.2,B
+180006,Farah Putri,Pemrograman Mobile,8,2024,13,80,75,78,71.0,B
+180006,Farah Putri,Matematika Dasar,1,2021,15,85,85,88,79.2,B
+180006,Farah Putri,Pengantar Basis Data,3,2022,15,85,85,88,79.2,B
+180006,Farah Putri,Proyek Akhir,8,2024,15,85,85,88,79.2,B
+180007,Galih Wibowo,Matematika Dasar,1,2021,14,80,82,85,76.0,B
+180007,Galih Wibowo,Kecerdasan Buatan,7,2024,14,80,82,85,76.0,B
+180007,Galih Wibowo,Proyek Akhir,8,2024,14,80,82,85,76.0,B
+180007,Galih Wibowo,Pemrograman Dasar,1,2021,15,85,82,88,78.3,B
+180007,Galih Wibowo,Pemrograman Dasar,1,2021,14,80,82,85,76.0,B
+180007,Galih Wibowo,Grafika Komputer,7,2024,14,80,82,85,76.0,B
+180007,Galih Wibowo,Pemrograman Mobile,8,2024,14,80,82,85,76.0,B
+180008,Haris Surya,Struktur Data,2,2021,13,80,75,78,71.0,B
+180008,Haris Surya,Grafika Komputer,7,2024,13,80,75,78,71.0,B
+180008,Haris Surya,Pengantar Informatika,1,2021,3,0,0,0,0.3,E
+180008,Haris Surya,Jaringan Komputer,6,2023,9,70,56,61,56.1,D
+180009,Intan Sari,Pemrograman Berorientasi Objek,4,2022,12,90,85,82,77.5,B
+180009,Intan Sari,Struktur Data,2,2021,12,60,75,82,68.5,C
+180009,Intan Sari,Jaringan Komputer,6,2023,12,90,85,82,77.5,B
+180009,Intan Sari,Pemrograman Web,5,2023,12,90,85,82,77.5,B
+180010,Joko Santoso,Pemrograman Dasar,1,2021,16,92,88,90,82.4,A
+180010,Joko Santoso,Struktur Data,2,2021,16,92,88,90,82.4,A
+180010,Joko Santoso,Pemrograman Mobile,8,2024,16,92,88,90,82.4,A
+180011,Kartika Dewi,Sistem Operasi,4,2022,12,75,72,78,69.0,C
+180011,Kartika Dewi,Proyek Akhir,8,2024,15,85,85,88,79.2,B
+180011,Kartika Dewi,Struktur Data,2,2021,15,85,85,88,79.2,B
+180011,Kartika Dewi,Matematika Dasar,1,2021,12,75,72,78,69.0,C
+180011,Kartika Dewi,Struktur Data,2,2021,15,85,85,88,79.2,B
+180011,Kartika Dewi,Proyek Akhir,8,2024,12,75,72,78,69.0,C
+180012,Lukman Hakim,Pemrograman Web,5,2023,14,80,82,85,76.0,B
+180012,Lukman Hakim,Pemrograman Kompetitif,8,2024,14,88,82,85,77.6,B
+180012,Lukman Hakim,Pemrograman Mobile,8,2024,14,88,82,85,77.6,B
+180012,Lukman Hakim,Pengantar Basis Data,3,2022,12,70,72,75,66.8,C
+180012,Lukman Hakim,Rekayasa Perangkat Lunak,6,2023,14,88,82,85,77.6,B
+180012,Lukman Hakim,Matematika Dasar,1,2021,14,80,82,85,76.0,B
+180013,Mira Putri,Algoritma dan Pemrograman,2,2021,13,80,75,78,71.0,B
+180013,Mira Putri,Pemrograman Mobile,8,2024,13,80,75,78,71.0,B
+180013,Mira Putri,Keamanan Informasi,8,2024,13,80,75,78,71.0,B
+180014,Nadia Permata,Pemrograman Web,5,2023,15,90,85,82,77.8,B
+180014,Nadia Permata,Struktur Data,2,2021,15,90,85,82,77.8,B
+180014,Nadia Permata,Keamanan Informasi,8,2024,15,90,85,82,77.8,B
+180015,Opik Suryana,Pemrograman Kompetitif,8,2024,16,92,88,90,82.4,A
+180015,Opik Suryana,Pemrograman Berorientasi Objek,4,2022,16,92,88,90,82.4,A
+180015,Opik Suryana,Grafika Komputer,7,2024,16,92,88,90,82.4,A
+180016,Puspita Sari,Proyek Akhir,8,2024,15,85,88,90,80.9,A
+180016,Puspita Sari,Pengantar Informatika,1,2021,15,85,88,90,80.9,A
+180016,Puspita Sari,Pemrograman Berorientasi Objek,4,2022,16,90,85,88,80.3,A
+180016,Puspita Sari,Keamanan Informasi,8,2024,14,85,78,82,74.6,B
+180017,Qori Ramadhan,Sistem Operasi,4,2022,14,80,82,85,76.0,B
+180017,Qori Ramadhan,Pemrograman Mobile,8,2024,16,92,88,90,82.4,A
+180017,Qori Ramadhan,Proyek Akhir,8,2024,10,66,70,65,61.2,C
+180017,Qori Ramadhan,Sistem Operasi,4,2022,14,80,82,85,76.0,B
+180018,Rahmat Surya,Struktur Data,2,2021,15,78,85,80,74.6,B
+180018,Rahmat Surya,Bahasa Inggris,3,2022,15,78,85,80,74.6,B
+180019,Siti Rahayu,Pemrograman Dasar,1,2021,10,71,72,67,63.6,C
+180019,Siti Rahayu,Pengantar Basis Data,3,2022,14,87,80,75,72.8,B
+180020,Tomi Wijaya,Rekayasa Perangkat Lunak,6,2023,16,90,85,88,80.3,A
+180020,Tomi Wijaya,Pengantar Informatika,1,2021,6,60,45,55,48.1,D
+180021,Umar Akbar,Pemrograman Berorientasi Objek,4,2022,15,85,85,88,79.2,B
+180021,Umar Akbar,Algoritma dan Pemrograman,3,2022,6,50,60,44,46.1,D
+180021,Umar Akbar,Algoritma dan Pemrograman,5,2023,15,85,85,88,79.2,B
+180021,Umar Akbar,Kecerdasan Buatan,7,2024,15,85,85,88,79.2,B
+180022,Vina Lestari,Pengantar Informatika,1,2021,14,80,82,85,76.0,B
+180022,Vina Lestari,Pemrograman Berorientasi Objek,4,2022,4,0,30,33,22.6,E
+180023,Wahyu Setiawan,Kecerdasan Buatan,7,2024,13,80,75,78,71.0,B
+180024,Xavier Ferdinand,Struktur Data,2,2021,12,90,85,82,77.5,B
+180025,Yuni Wulandari,Struktur Data,2,2021,5,50,60,44,46.1,D
+180026,Zahra Fitri,Basis Data Lanjut,5,2023,15,85,85,88,79.2,B
+180026,Zahra Fitri,Grafika Komputer,7,2024,12,75,72,78,69.0,C
+180027,Adi Saputra,Basis Data Lanjut,5,2023,14,80,82,85,76.0,B
+180027,Adi Saputra,Proyek Akhir,8,2024,14,88,82,85,77.6,B
+180028,Bayu Pratama,Analisis Data,8,2024,13,80,75,78,71.0,B
+180029,Citra Agustina,Jaringan Komputer,6,2023,15,90,85,82,77.8,B
+170030,Dedy Mulyadi,Struktur Data,2,2020,16,92,88,90,82.4,A
+170030,Dedy Mulyadi,Algoritma dan Pemrograman,1,2020,12,75,72,78,69.0,C
+170030,Dedy Mulyadi,Algoritma dan Pemrograman,3,2021,15,85,85,88,79.2,B
+170030,Dedy Mulyadi,Struktur Data,2,2020,15,85,85,88,79.2,B
+170030,Dedy Mulyadi,Matematika Dasar,1,2020,12,75,72,78,69.0,C
+170030,Dedy Mulyadi,Struktur Data,2,2020,15,85,85,88,79.2,B
+170030,Dedy Mulyadi,Proyek Akhir,8,2023,12,75,72,78,69.0,C
